@@ -45,7 +45,7 @@ hosts:
 
 # DNS 设置
 dns:
-  enable: false
+  enable: true
   listen: 127.0.0.1:5335
   default-nameserver: [119.29.29.29, 223.5.5.5, 180.184.1.1]
   use-hosts: true
